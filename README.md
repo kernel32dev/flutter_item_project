@@ -1,16 +1,11 @@
 # flutter_item_project
 
-A new Flutter project.
+Projeto hello world de flutter
 
-## Getting Started
+### Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/662ae07e-f938-40ca-9309-9cfd93cb0db7)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/bb8a3247-8639-41c8-aab7-c671ae0355c1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/f6e9bead-ea5e-450f-a1fa-238c95c5196c)
